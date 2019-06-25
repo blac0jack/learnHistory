@@ -1,4 +1,4 @@
-﻿2019-06-23
+2019-06-23
 创建了这个git仓库，开始记录自己的学习过程
 今晚要做的事：把旧电脑格式化并安装Linux作为今后学习用的测试服务器
 直接txt文本建立此文件时在GitDeskTop客户端可能会有中文乱码的情况，使用NotePad++转换为UTF-8后显示正常
@@ -11,3 +11,5 @@
 已安装docker
 已成功部署远程镜像
 已对公网开放80端口，目前可以直接访问
+用于获取这个文件的api接口：
+https://api.github.com/repos/blac0jack/learnHistory/contents/%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95.txt
